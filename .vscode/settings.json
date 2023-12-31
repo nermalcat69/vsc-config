@@ -1,0 +1,70 @@
+{
+  "tabnine.experimentalAutoImports": true,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "synthwave84.brightness": 1,
+  "workbench.editor.enablePreview": false,
+  "explorer.confirmDelete": false,
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": true,
+  "explorer.confirmDragAndDrop": false,
+  "liveSassCompile.settings.partialsList": ["/assets/css/"],
+  "liveSassCompile.settings.watchOnLaunch": true,
+  "git.autoRepositoryDetection": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "files.autoSave": "afterDelay",
+  "git.enableSmartCommit": true,
+  "git.showPushSuccessNotification": true,
+  "git.autofetch": true,
+  "vscode-pets.throwBallWithMouse": true,
+  "editor.linkedEditing": true,
+  "emmet.showAbbreviationSuggestions": false,
+  "javascript.format.insertSpaceAfterConstructor": true,
+  "editor.fontSize": 13,
+  "sonarlint.rules": {
+    "python:S1192": {
+      "level": "off"
+    },
+    "javascript:S1874": {
+      "level": "off"
+    },
+    "typescript:S1874": {
+      "level": "off"
+    },
+    "typescript:S6772": {
+      "level": "off"
+    },
+    "typescript:S6749": {
+      "level": "off"
+    }
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.markdownlint": "explicit"
+  },
+  "npm.keybindingsChangedWarningShown": true,
+  "settingsSync.ignoredExtensions": ["redhat.java"],
+  "git.confirmSync": false,
+  "editor.minimap.enabled": false,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "wakatime.apiKey": "waka_fdc191d9-fa99-404e-aa57-13a320c6abdf",
+  "css.lint.unknownAtRules": "ignore",
+  "workbench.editor.empty.hint": "hidden",
+  "inlang.userId": "dff7dd21-c699-4de0-a45a-16cd1053bfd0",
+  "githubPullRequests.pullBranch": "never",
+  "security.workspace.trust.startupPrompt": "never",
+  "security.workspace.trust.emptyWindow": false,
+  "security.workspace.trust.enabled": false,
+  "svelte.enable-ts-plugin": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "markdown-preview-enhanced.previewTheme": "monokai.css",
+  "markdownlint.config": {
+  
+  },
+  "markdownlint.focusMode": true,
+  "window.zoomLevel": 1,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.formatOnSave": true,
+  "extensions.ignoreRecommendations": true,
+  "liveServer.settings.ChromeDebuggingAttachment": false,
+  "workbench.colorTheme": "Nord Deep"
+}
